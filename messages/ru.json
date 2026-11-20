@@ -837,7 +837,7 @@
     "forFunders": "Для спонсоров",
     "continueToHcb": "Перейти в HCB",
     "avatarAlt": "Аватар {name} в HCB",
-    "contactQuestions": "Вопросы? Напишите на <email></email> или позвоните на <phone></phone>",
+    "contactQuestions": "Вопросы? Напишите на <email></email> или позвоните на <phone></phone>.",
     "contactNotice": "Коммерческие карты HCB Visa® работают на базе Stripe и выпускаются Celtic Bank."
   },
   "HcbDirectory": {
